@@ -1,5 +1,7 @@
 # MyIRC
 
+[![CodeFactor](https://www.codefactor.io/repository/github/tgey/myirc/badge)](https://www.codefactor.io/repository/github/tgey/myirc)
+
 ![Screenshot](ircrating.png)
 
 ## Contributors
