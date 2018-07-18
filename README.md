@@ -1,5 +1,6 @@
 # MyIRC
 
+![Screenshot](ircrating.png)
 
 ## Contributors
 
