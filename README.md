@@ -6,7 +6,7 @@
 
 ## Contributors
 
-Arthur Lemaire
+[Arthur Lemaire](https://github.com/ElChurros)
 
 ## 0. Subject
 
